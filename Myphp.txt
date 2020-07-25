@@ -6,3 +6,32 @@ Syntax
 print statement:
 echo "Write what you want to print"
 we can write 2 or more times the above php syntax.
+Variables
+->Starts with a dollar
+-> variables are case sensitive but keywords are not
+-> automatic assign number, string, float or any other
+
+php data types:
+1. String 
+2. Integer
+3. Float
+4. Boolean
+5. Array
+6. NULL
+7. Object
+
+String functions in php:
+1.str_len()
+2.str_word_count()
+3.strrev()
+4.strpos()
+5.str_replace()
+6.str_repeat()
+7.rtrim()
+8.ltrim()
+
+Operators:
+1)Arithmetic
+2)Assignment
+3)Logical
+4)Comparison

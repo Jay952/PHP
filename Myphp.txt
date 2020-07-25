@@ -35,3 +35,12 @@ Operators:
 2)Assignment
 3)Logical
 4)Comparison
+
+if else statements
+Switch case
+While Loop
+For Loop
+do While Loop
+foreach loop
+
+functions

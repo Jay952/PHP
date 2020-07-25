@@ -1,0 +1,8 @@
+Syntax 
+<?php -----------------
+-----------------------
+?>
+
+print statement:
+echo "Write what you want to print"
+we can write 2 or more times the above php syntax.

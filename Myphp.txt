@@ -44,3 +44,8 @@ do While Loop
 foreach loop
 
 functions
+Date and time functions
+Associative arrays
+Multidimentional arrays
+scope local global variables
+Get Post in php

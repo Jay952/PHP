@@ -53,3 +53,5 @@ connecting to SQL
 creating database in SQL
 creating tables
 Insert Data
+Display Data
+Updating records and where clause

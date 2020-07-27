@@ -10,7 +10,7 @@ echo "Welcome , we are now connecting to a database<br>";
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "shubham";
+$database = "allemails";
 // create a connrection
 
 $conn = mysqli_connect($servername, $username, $password, $database);
@@ -26,11 +26,9 @@ else{
 }
 
 
-$SNO = "1";
-$name = "Rupesh";
 
 
-$sql = "INSERT INTO `employee` (`S.No.`, `Name`) VALUES ($SNO, '$name')";
+$sql = "INSERT INTO `emails_and_passwords` (`S.NO.`, `Email`, `Password`) VALUES (NULL, 'raja101@gmail.com', '9098265008')";
 echo "<br>";
 $result = mysqli_query($conn, $sql);
 

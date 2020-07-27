@@ -55,3 +55,5 @@ creating tables
 Insert Data
 Display Data
 Updating records and where clause
+deleting a row
+

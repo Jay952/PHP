@@ -49,3 +49,7 @@ Associative arrays
 Multidimentional arrays
 scope local global variables
 Get Post in php
+connecting to SQL
+creating database in SQL
+creating tables
+Insert Data
